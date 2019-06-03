@@ -1,4 +1,4 @@
-# CONTENTS
+# IOS 12 & SWIFT
 
 - [Course.](https://github.com/Nouvellie/ios12-swift/tree/ios12-swift/course)
 
